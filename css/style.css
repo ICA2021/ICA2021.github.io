@@ -133,6 +133,19 @@ p{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+#welcome h5{
+  font-size: 20px;
+  font-style:italic;
+  text-align:justify; 
+  text-justify:inter-ideograph;
+}
+
+#welcome li{
+  font-size: 18px;
+  text-align:justify; 
+  text-justify:inter-ideograph;
+}
 @media (max-width: 991px) {
   #welcome {
     background-position: -70% 0, 170% 0;
