@@ -285,11 +285,11 @@ p{
   }
 }
 
-/* #program {
-  background-color: #118f76;
+ #program {
+  background-color: #ac8343;
   color: #e4e6e5;
   padding-top: 90px;
-} */
+} 
 
 #important-dates {
   background-color: #244566;
@@ -313,7 +313,7 @@ p{
   background-color: #ac8343;
   color: #e4e6e5;
   padding-top: 90px;
-  padding-bottom: 150px;
+  padding-bottom: 200px;
   /* height: 100%; */
 }
 #publications {
@@ -604,7 +604,7 @@ i {
 
 #copyrights {
   background: #222222;
-  padding: 10px 0;
+  padding: 15px 0;
   text-align: center;
   color: #fff;
 }
