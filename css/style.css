@@ -286,13 +286,13 @@ p{
 }
 
  #program {
-  background-color: #ac8343;
+  background-color: #198f77;
   color: #e4e6e5;
   padding-top: 90px;
 } 
 
 #important-dates {
-  background-color: #244566;
+  background-color: #198f77;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
@@ -310,7 +310,7 @@ p{
 }
 
 #committees {
-  background-color: #ac8343;
+  background-color: #244566;
   color: #e4e6e5;
   padding-top: 90px;
   padding-bottom: 200px;
