@@ -121,8 +121,23 @@ body {
 }
 
 #welcome h1 {
-  padding-top: 100px;
+  /* padding-top: 100px; */
+  /* font-size: 30px; */
+  text-align: left;
 }
+#welcome table{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#welcome h6{
+  text-align: left;
+  font-size: 28px;
+}
+
+/* #welcome span{
+  font-size: ;
+} */
 /* #welcome .container{
   background-color: #222222;
 } */
@@ -145,6 +160,10 @@ p{
   font-size: 18px;
   text-align:justify; 
   text-justify:inter-ideograph;
+}
+
+#committees p{
+  text-align: center;
 }
 @media (max-width: 991px) {
   #welcome {
@@ -266,15 +285,14 @@ p{
   }
 }
 
-#program {
+/* #program {
   background-color: #118f76;
   color: #e4e6e5;
   padding-top: 90px;
-  /* height: 100%; */
-}
+} */
 
 #important-dates {
-  background-color: #947442;
+  background-color: #244566;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
@@ -285,27 +303,30 @@ p{
 } 
 
 #submission {
-  background-color: #34495e;
+  background-color: #244566;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
 }
 
 #committees {
-  background-color: #118f76;
+  background-color: #ac8343;
   color: #e4e6e5;
   padding-top: 90px;
+  padding-bottom: 150px;
   /* height: 100%; */
 }
 #publications {
-  background-color: #947442;
+  background-color: #ac8343;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
 }
-
+a{
+  color: #70d4c0;
+}
 #contact-us {
-  background-color: #34495e;
+  background-color: #244566;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
