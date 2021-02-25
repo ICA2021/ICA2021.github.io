@@ -61,7 +61,7 @@ body {
   background: none;
 }
 .navbar .active a {
-  border-bottom: 2px solid #1abc9c;
+  border-bottom: 2px solid #25b89a;
 }
 
 .navbar-scrolled {
@@ -162,9 +162,17 @@ p{
   text-justify:inter-ideograph;
 }
 
-#committees p{
+/* #committees p{
   text-align: center;
+} */
+#committees table{
+  margin-top: 50px;
+  text-align: left;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 @media (max-width: 991px) {
   #welcome {
     background-position: -70% 0, 170% 0;
@@ -286,13 +294,13 @@ p{
 }
 
  #program {
-  background-color: #198f77;
+  background-color: #14b998;
   color: #e4e6e5;
   padding-top: 90px;
 } 
 
 #important-dates {
-  background-color: #198f77;
+  background-color: #14b998;
   color: #e4e6e5;
   padding-top: 90px;
   /* height: 100%; */
@@ -309,11 +317,21 @@ p{
   /* height: 100%; */
 }
 
-#committees {
+#awards{
   background-color: #244566;
   color: #e4e6e5;
   padding-top: 90px;
-  padding-bottom: 200px;
+}
+.awards p li{
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+
+#committees {
+  background-color: #ac8343;
+  color: #e4e6e5;
+  padding-top: 90px;
+  /* padding-bottom: 200px; */
   /* height: 100%; */
 }
 #publications {
