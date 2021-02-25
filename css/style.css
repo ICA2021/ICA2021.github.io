@@ -171,6 +171,8 @@ p{
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+  border: 0px solid transparent;
+  font-size: 18px;
 }
 
 @media (max-width: 991px) {
